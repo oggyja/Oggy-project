@@ -1,4 +1,4 @@
 # Oggy-project
 This is my first Github.
 <br>
-Author - Oggy
+Author - Oggy(project)
